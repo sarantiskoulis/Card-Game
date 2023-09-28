@@ -1,6 +1,10 @@
 # Card Game Assessment 
-## How to run
 
-Imports: numpy, time
-To run with the following command:
+## Prerequisites
+Ensure you have the following libraries installed:
+- numpy
+- time
+
+## Running the Game
+Execute the game using the command:
 'python main.py'
